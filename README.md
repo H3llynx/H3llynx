@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-<h2>Hey 👋 I'm Helene! What's Up?</h2>
+<h3>Hey 👋 I'm Helene! What's Up?</h3>
 </div>
   
 ###
@@ -28,7 +28,5 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=H3llynx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
+  <img src="https://streak-stats.demolab.com?user=H3llynx&locale=en&mode=daily&theme=nightfox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
